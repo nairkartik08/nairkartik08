@@ -42,9 +42,9 @@ An interactive web application that provides detailed information about medicina
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nairkartik08&show_icons=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nairkartik08&show_icons=true" />
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nairkartik08&layout=compact)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nairkartik08&layout=compact" />
 
 ---
 
