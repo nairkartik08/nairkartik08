@@ -110,14 +110,6 @@ class KartikNair:
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nairkartik08&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</p>
-
----
-
 ## 📚 Currently Exploring
 
 <p align="center">
