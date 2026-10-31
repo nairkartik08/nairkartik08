@@ -10,11 +10,7 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://github.com/nairkartik08">
-    <img src="https://img.shields.io/github/followers/nairkartik08?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nairkartik08&style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Profile+Views" />
-  <a href="https://www.linkedin.com/in/nairkartik08">
+  <a href="https://www.linkedin.com/in/kartik-nair-8267803b6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
@@ -58,9 +54,35 @@ class KartikNair:
       </p>
       <p align="center">
         Deterministic developer skill verification ledger. Matches PDF resume claims against real GitHub artifacts — zero LLM hallucinations.<br/><br/>
-        <img src="https://img.shields.io/badge/Live-skill--proof--silk.vercel.app-4ade80?style=flat-square&logo=vercel&logoColor=white" />
+        <a href="https://skill-proof-silk.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-skill--proof--silk.vercel.app-4ade80?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 NexCare — Healthcare Appointment System</h3>
+      <p align="center">
+        <a href="https://github.com/nairkartik08/healthcare-appointment-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nairkartik08&repo=healthcare-appointment-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-4.0-6DB33F?style=flat-square&logo=spring" />
+        <img src="https://img.shields.io/badge/PostgreSQL-18-336791?style=flat-square&logo=postgresql" />
+        <img src="https://img.shields.io/badge/Gemini-AI-8E75B2?style=flat-square&logo=google" />
+      </p>
+      <p align="center">
+        Full-stack enterprise healthcare platform featuring patient booking, doctor schedules, admin controls, WebSocket real-time chat, and digital prescriptions.<br/><br/>
+        <a href="https://healthcare-appointment-system-healt.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Vercel-4ade80?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://healthcare-appointment-system-1-eb9c.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/API-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏡 Virtual Herbal Garden</h3>
       <p align="center">
@@ -71,8 +93,6 @@ class KartikNair:
         Full-stack MERN application with REST APIs, CRUD operations, and dynamic database-driven rendering. Built as a platform to explore medicinal plants.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💼 Jobloud – Job Portal</h3>
       <p align="center">
@@ -83,7 +103,9 @@ class KartikNair:
         Full-featured job portal with authentication, job listing management, and database integration. Role-based access for candidates and employers.
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
       <h3 align="center">🔮 Coming Soon</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Building-58A6FF?style=flat-square" />
